@@ -1,0 +1,11 @@
+PE = 2
+PV = 1.9.2
+PR = r0
+PKGR = r0.0
+PKG = libecore-avahi-tests
+RPROVIDES = 
+RDEPENDS = eglibc (>= 2.19) eina (>= 1.9.2)
+RRECOMMENDS = 
+PKGSIZE = 117792
+FILES = /usr/bin/efl /usr/bin/*_* /usr/share/efl
+FILELIST = /usr/bin/embryo_cc

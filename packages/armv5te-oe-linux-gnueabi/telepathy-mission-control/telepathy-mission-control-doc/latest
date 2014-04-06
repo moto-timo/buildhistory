@@ -1,0 +1,9 @@
+PV = 5.16.1
+PR = r0
+PKGR = r0.0
+RPROVIDES = 
+RDEPENDS = 
+RRECOMMENDS = 
+PKGSIZE = 6920
+FILES = /usr/share/doc /usr/share/man /usr/share/info /usr/share/gtk-doc /usr/share/gnome/help
+FILELIST = /usr/share/man/man1/mc-tool.1 /usr/share/man/man1/mc-wait-for-name.1 /usr/share/man/man8/mission-control-5.8
